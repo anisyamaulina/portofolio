@@ -1,0 +1,22 @@
+{
+    "id" : 1,
+    "UniversityName":"Universitas Gadjah Mada",
+    "specialization":"Computer Science and Information Systems",
+    "MonthOfPassing":"2017 - ",
+    "YearOfPassing":"now",
+    "Achievements":"Simultan 2017, 13th NFF UI 2019, Vocomfest 2019, Daegu Colorful Festival 2019"
+  },
+  {
+    "id" : 2,
+    "UniversityName":"SMA N 2 Pati",
+    "specialization":"Mathematics and Natural Sciences",
+    "MonthOfPassing":"2014 - ",
+    "YearOfPassing":"2017"
+  },
+  {
+    "id" : 3,
+    "UniversityName": "SMP N 1 Tayu",
+    "specialization": "Reguler",
+    "MonthOfPassing": "2011 - ",
+    "YearOfPassing": "2014"
+ }
