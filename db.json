@@ -1,4 +1,5 @@
-{
+[
+    {
     "id" : 1,
     "UniversityName":"Universitas Gadjah Mada",
     "specialization":"Computer Science and Information Systems",
@@ -20,3 +21,4 @@
     "MonthOfPassing": "2011 - ",
     "YearOfPassing": "2014"
  }
+    ]
