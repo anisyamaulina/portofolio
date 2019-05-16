@@ -1,4 +1,4 @@
-[
+{"education":[
     {
     "id" : 1,
     "UniversityName":"Universitas Gadjah Mada",
@@ -21,4 +21,5 @@
     "MonthOfPassing": "2011 - ",
     "YearOfPassing": "2014"
  }
-    ]
+    ]}
+ 
